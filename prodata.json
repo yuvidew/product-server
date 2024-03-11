@@ -1,0 +1,162 @@
+[
+    {
+    "productName": "Laptop",
+    "brand": "XYZ Electronics",
+    "category": "Electronics",
+    "price": 899.99,
+    "image": "https://img.freepik.com/free-photo/laptop-white-background-3d-rendering-computer-generated-image_1142-48567.jpg?t=st=1710067290~exp=1710070890~hmac=19ce06e3fb83bebdc73cd9d63e16fba9870bf27bbdffe68314a66c825e71e031&w=740",
+    "description": "Powerful laptop with high-performance features."
+    },
+    {
+    "productName": "Smartphone",
+    "brand": "ABC Mobile",
+    "category": "Electronics",
+    "price": 499.99,
+    "image": "https://img.freepik.com/free-vector/realistic-display-smartphone-with-different-apps_52683-30241.jpg?t=st=1710067315~exp=1710070915~hmac=1cc2f35a7d8a25136285b14622ae2fa4d81813caca442cd28f1f8dfc85284c52&w=740",
+    "description": "Feature-packed smartphone for your daily needs."
+    },
+    {
+    "productName": "Running Shoes",
+    "brand": "SportsFit",
+    "category": "Footwear",
+    "price": 79.99,
+    "image": "https://img.freepik.com/free-photo/pair-trainers_144627-3799.jpg?t=st=1710067361~exp=1710070961~hmac=f3e32c6fa539a9396d8ae9d3726103afccefea4d42e881adad9d6aa7b7cd28ff&w=740",
+    "description": "Comfortable and stylish running shoes for fitness enthusiasts."
+    },
+    {
+    "productName": "HD Television",
+    "brand": "TechVision",
+    "category": "Electronics",
+    "price": 799.99,
+    "image": "https://img.freepik.com/free-photo/mountain-landscape-with-computer-monitor-sunset-generative-ai_188544-12127.jpg?t=st=1710067389~exp=1710070989~hmac=523faa804189a06aa3bd82bf65b153b6a202313c9254689aa17910d07a2d0442&w=740",
+    "description": "Immerse yourself in high-definition entertainment with this TV."
+    },
+    {
+    "productName": "Coffee Maker",
+    "brand": "BrewMaster",
+    "category": "Appliances",
+    "price": 49.99,
+    "image": "https://img.freepik.com/free-photo/selective-focus-shot-espresso-machine-making-tasty-warm-coffee-morning_181624-8504.jpg?t=st=1710067418~exp=1710071018~hmac=f4f7ae7cd27a5053fe01d42b0f74e58694be5475b4d08149ec958bfd3abdc635&w=740",
+    "description": "Brew your favorite coffee with this easy-to-use coffee maker."
+    },
+    {
+    "productName": "Backpack",
+    "brand": "AdventureGear",
+    "category": "Fashion",
+    "price": 29.99,
+    "image": "https://img.freepik.com/free-photo/image-blue-school-bag-white-background_125540-3456.jpg?t=st=1710067441~exp=1710071041~hmac=07f7d72ac227660656f18abe89d02fdbfef2c117d09d317199a1819f41e08e2e&w=740",
+    "description": "Durable and spacious backpack for your everyday adventures."
+    },
+    {
+    "productName": "Wireless Earbuds",
+    "brand": "SoundSync",
+    "category": "Electronics",
+    "price": 129.99,
+    "image": "https://img.freepik.com/free-photo/wireless-earbuds-with-neon-cyberpunk-style-lighting_23-2151074263.jpg?t=st=1710067466~exp=1710071066~hmac=ad57157faf96beecd308781d3060c93596dd11ec70217a7063eb203f801d6abb&w=740",
+    "description": "Enjoy crystal-clear audio with these wireless earbuds."
+    },
+    {
+    "productName": "Blender",
+    "brand": "BlendMaster",
+    "category": "Appliances",
+    "price": 39.99,
+    "image": "https://img.freepik.com/free-photo/milk-bananas-blender-generative-al_169016-28507.jpg?t=st=1710067489~exp=1710071089~hmac=1b4af996cab189fa860f40cfc81e04e22d15d41f327af57844531b0a71b0af50&w=740",
+    "description": "Powerful blender for smoothies and food preparation."
+    },
+    {
+    "productName": "Sunglasses",
+    "brand": "SunStyle",
+    "category": "Fashion",
+    "price": 59.99,
+    "image": "https://img.freepik.com/free-photo/glasses-with-slightly-rounded-frame_23-2150670762.jpg?t=st=1710067515~exp=1710071115~hmac=5e0cb0c99c31d46fd2f3a45970453de6d004e6ac941b7b10414809719bb65be3&w=740",
+    "description": "Fashionable sunglasses to protect your eyes in style."
+    },
+    {
+    "productName": "Gaming Mouse",
+    "brand": "GamerTech",
+    "category": "Electronics",
+    "price": 49.99,
+    "image": "https://img.freepik.com/free-photo/purple-computer-mouse_1260-11.jpg?t=st=1710067564~exp=1710071164~hmac=98797d432ccbccb9b744489d9ffe88a96f85caf8372fdec56507d00ec37e03ad&w=740",
+    "description": "High-performance gaming mouse for immersive gaming experiences."
+    },
+    {
+    "productName": "Fitness Tracker",
+    "brand": "FitPro",
+    "category": "Fitness",
+    "price": 89.99,
+    "image": "https://img.freepik.com/free-vector/smart-training-abstract-concept-vector-illustration-smart-training-online-programs-tools-new-gym-technology-fitness-coaching-application-improve-health-fat-loss-toning-abstract-metaphor_335657-1445.jpg?t=st=1710067605~exp=1710071205~hmac=1701790d75553c81a6cd4d825b4b7e77ed58ce81b1b760c457e148019155c2cf&w=740",
+    "description": "Track your fitness goals with this advanced fitness tracker."
+    },
+    {
+    "productName": "Digital Camera",
+    "brand": "PhotoGenius",
+    "category": "Electronics",
+    "price": 349.99,
+    "image": "https://img.freepik.com/free-vector/camera-accessory_1284-13130.jpg?t=st=1710067632~exp=1710071232~hmac=b1e7563636434a0f52346667934142c0c7e095880b5b8f62f2b38a494ca1d211&w=740",
+    "description": "Capture stunning moments with this high-resolution digital camera."
+    },
+    {
+    "productName": "Dress Shoes",
+    "brand": "EleganceFootwear",
+    "category": "Footwear",
+    "price": 89.99,
+    "image": "https://img.freepik.com/free-photo/shoes_1303-3606.jpg?t=st=1710067657~exp=1710071257~hmac=e14e8fa9fa79d5ca074acb5859899e161b811ec3f04c4d28c223fcd6cc4d173c&w=740",
+    "description": "Classy dress shoes for formal occasions."
+    },
+    {
+    "productName": "Portable Speaker",
+    "brand": "AudioHub",
+    "category": "Electronics",
+    "price": 69.99,
+    "image": "https://img.freepik.com/free-vector/realistic-illustration-black-portable-speaker-isolated-white-background_1441-2370.jpg?t=st=1710067691~exp=1710071291~hmac=c08a0f907f834e37342cc70a9a8d81b5c85af93e36d7efa77370e6c0982a1ec0&w=740",
+    "description": "Take your music anywhere with this portable speaker."
+    },
+    {
+    "productName": "Yoga Mat",
+    "brand": "ZenFit",
+    "category": "Fitness",
+    "price": 24.99,
+    "image": "https://img.freepik.com/free-photo/yoga-outdoor-with-young-women-concept-health-body-care_185193-111319.jpg?t=st=1710067732~exp=1710071332~hmac=7c32b5966bd2887f2f957d203068da079ce43cee1364e615a2cb7070f9245c0b&w=740",
+    "description": "Comfortable yoga mat for your workout sessions."
+    },
+    {
+    "productName": "External Hard Drive",
+    "brand": "DataVault",
+    "category": "Electronics",
+    "price": 119.99,
+    "image": "https://img.freepik.com/free-photo/high-angle-external-hard-disk-laptop_23-2149417048.jpg?t=st=1710067760~exp=1710071360~hmac=577056b1e79b5f3c24d5ff79ab672c9cd83df7ec7b8693d0548ee7e60d2d6948&w=740",
+    "description": "Expand your storage with this reliable external hard drive."
+    },
+    {
+    "productName": "Leather Wallet",
+    "brand": "FashionCraft",
+    "category": "Fashion",
+    "price": 34.99,
+    "image": "https://img.freepik.com/free-photo/brown-isolated-leather-pocket-with-white-background_1258-47.jpg?t=st=1710067785~exp=1710071385~hmac=97dffbec1b5f83d0d24633c5453584f847bde6c431ec90c8f4276ce5b1ea0002&w=740",
+    "description": "Stylish leather wallet to keep your essentials organized."
+    },
+    {
+    "productName": "Electric Toothbrush",
+    "brand": "DentalCare",
+    "category": "Health",
+    "price": 44.99,
+    "image": "https://img.freepik.com/free-photo/3d-rendering-dental-hygiene_52683-110628.jpg?t=st=1710067812~exp=1710071412~hmac=8ffff0f00bb96d9b1d82616a5b9282f58ac3f8fe52d86f0de445b275651c1e0e&w=740",
+    "description": "Maintain oral hygiene with this advanced electric toothbrush."
+    },
+    {
+    "productName": "Rain Jacket",
+    "brand": "WeatherGuard",
+    "category": "Fashion",
+    "price": 79.99,
+    "image": "https://img.freepik.com/free-vector/happy-boy-wearing-raincoat_1308-132975.jpg?t=st=1710067839~exp=1710071439~hmac=fcf13db08bac5a52cbdbaccc27ce5b6c4ebb27663ad8da0fe79fbbb6c70e9ed8&w=740",
+    "description": "Stay dry in style with this waterproof rain jacket."
+    },
+    {
+    "productName": "Wireless Charger",
+    "brand": "ChargeHub",
+    "category": "Electronics",
+    "price": 29.99,
+    "image": "https://img.freepik.com/free-photo/wireless-charger-digital-device_53876-97322.jpg?t=st=1710067868~exp=1710071468~hmac=3597daa57e3db4ce187f156c8bc75bf00095ca6b344c259692eb5ba729a915cd&w=740",
+    "description": "Convenient wireless charger for your compatible devices."
+    }
+]
