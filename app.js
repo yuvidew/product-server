@@ -2,12 +2,14 @@ require('dotenv').config()
 const express = require('express')
 const router = require('./router/router')
 const connectDb = require('./db/connect')
+const cors = require('cors')
 const app = express()
 const port = process.env.PORT || 2000
 
 /**they are same middleware  */
 
 app.use(express.json())
+app.use(cors())
 
 /* they are same api router's */
 
